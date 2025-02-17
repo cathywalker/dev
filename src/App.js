@@ -16,7 +16,7 @@ const [currentActive, setCurrentActive] = useState(0);
 const titleArray = ['About Me', 'React', 'Angular', 'Courses', 'iOS', 'AR'];
 
 const toggleActive = (index) => {
-  if(currentActive == index){
+  if(currentActive === index){
     return;
   }
   const newArray = [...isActive];
