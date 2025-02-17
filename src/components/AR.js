@@ -9,7 +9,7 @@ const AR = () => {
       <img
           src="https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-700/botanic_LiZ8mGTkU.jpg"
           alt="Botanic AR"
-          srcset="
+          srcSet="
             https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-330/botanic_LiZ8mGTkU.jpg 330w,
             https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-700/botanic_LiZ8mGTkU.jpg 700w,
             https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-1000/botanic_LiZ8mGTkU.jpg 950w

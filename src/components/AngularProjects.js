@@ -12,14 +12,14 @@ const AngularProjects = () => {
         <img
           src="https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-700/TalosATS_bWWjbtd7O.png"
           alt="ATS"
-          srcset="
+          srcSet="
             https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-330/TalosATS_bWWjbtd7O.png 330w,
             https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-700/TalosATS_bWWjbtd7O.png 700w,
             https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-700/TalosATS_bWWjbtd7O.png 950w
           "
           sizes="(max-width: 950px) 330px, 700px"
         />
-        <div><a href="https://talos360.co.uk/ats/" target="_blank">Talos ATS</a></div>
+        <div><a href="https://talos360.co.uk/ats/" target="_blank" rel="noreferrer">Talos ATS</a></div>
       </div>
       <div>
         <h2>AF Quote Engine</h2>    
@@ -27,14 +27,14 @@ const AngularProjects = () => {
         <img
           src="https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-400/AFQuote_khuYVPtGe.png"
           alt="Quote Engine"
-          srcset="
+          srcSet="
             https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-330/AFQuote_khuYVPtGe.png 330w,
             https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-400/AFQuote_khuYVPtGe.png 700w,
             https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-400/AFQuote_khuYVPtGe.png 950w
           "
           sizes="(max-width: 950px) 330px, 700px"
         />
-        <div><a href="https://www.animalfriends.co.uk/pet-insurance-quote-lp" target="_blank">AF - Price Quote Engine</a></div>
+        <div><a href="https://www.animalfriends.co.uk/pet-insurance-quote-lp" target="_blank" rel="noreferrer">AF - Price Quote Engine</a></div>
       </div>
       <div>
         <h2>Cat Facts</h2>    
@@ -42,7 +42,7 @@ const AngularProjects = () => {
         <img
           src="https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-700/cat-facts_C7-dFO2HZ.png"
           alt="Cat Facts"
-          srcset="
+          srcSet="
             https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-330/cat-facts_C7-dFO2HZ.png 330w,
             https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-700/cat-facts_C7-dFO2HZ.png 700w,
             https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-1000/cat-facts_C7-dFO2HZ.png 950w
@@ -50,7 +50,7 @@ const AngularProjects = () => {
           sizes="(max-width: 950px) 330px, 700px"
         />
       </div>
-      <a href="https://github.com/cathywalker/cat-facts" target="_blank">GitHub Repo</a>
+      <a href="https://github.com/cathywalker/cat-facts" target="_blank" rel="noreferrer">GitHub Repo</a>
     </div>
   );
 };
