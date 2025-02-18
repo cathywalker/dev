@@ -51,7 +51,7 @@ const ReactProjects = () => {
       </div>
       <div style={styles.projectItem}>
         <h2>Fruit & Veg Kids App</h2>
-        <p>To create a drag and drop component library for my toolkit I made this fruit and Veg App for kids. Drag and Drop an image to find out if it's a Fruit or Vegetable</p>
+        <p>To create a drag and drop component library for my toolkit I made this fruit and Veg App for kids. Drag and Drop an image to find out if it's a Fruit or Vegetable.</p>
         <img
           src="https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-700/fruitandvegdragdrop_yHxWJ1ad5.png"
           alt="Fruit and Veg Info"
