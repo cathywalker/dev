@@ -52,11 +52,11 @@ const Courses = () => {
           
               <h3>Angular Code</h3>
               <img 
-                src="https://ik.imagekit.io/dgmfafxequ/Angular-ngFor_4MfypAzcU.png" 
+                src="https://ik.imagekit.io/dgmfafxequ/Dev/AngularngFor_M2uF3H3ld.png" 
                 srcSet="
-                  https://ik.imagekit.io/dgmfafxequ/tr:w-330/Angular-ngFor_4MfypAzcU.png 330w,
-                  https://ik.imagekit.io/dgmfafxequ/tr:w-600/Angular-ngFor_4MfypAzcU.png 700w,
-                  https://ik.imagekit.io/dgmfafxequ/tr:w-800/Angular-ngFor_4MfypAzcU.png 950w
+                  https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-330/AngularngFor_M2uF3H3ld.png 330w,
+                  https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-600/AngularngFor_M2uF3H3ld.png 700w,
+                  https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-800/AngularngFor_M2uF3H3ld.png 950w
                 "
                 sizes="(max-width: 950px) 320px, 800px"
                 alt="Angular ngFor code"
@@ -71,11 +71,11 @@ const Courses = () => {
             <h3>React Code</h3>
               <div style={styles.imageContainer}>
                 <img 
-                  src="https://ik.imagekit.io/dgmfafxequ/ReactMapJSX_BA7UJNXSx.png" 
+                  src="https://ik.imagekit.io/dgmfafxequ/Dev/ReactChildren_d9oTIMN2x.png" 
                   srcSet="
-                    https://ik.imagekit.io/dgmfafxequ/tr:w-330/ReactMapJSX_BA7UJNXSx.png 330w,
-                    https://ik.imagekit.io/dgmfafxequ/tr:w-600/ReactMapJSX_BA7UJNXSx.png 700w,
-                    https://ik.imagekit.io/dgmfafxequ/tr:w-800/ReactMapJSX_BA7UJNXSx.png 950w
+                    https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-330/ReactChildren_d9oTIMN2x.png 330w,
+                    https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-600/ReactChildren_d9oTIMN2x.png 700w,
+                    https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-800/ReactChildren_d9oTIMN2x.png 950w
                   "
                   sizes="(max-width: 950px) 330px, 700px"
                   alt='React Map JSX code'/>        
