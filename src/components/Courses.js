@@ -62,18 +62,15 @@ const Courses = () => {
               <div style={styles.imageContainer}>
                 <div>
                   <h4 style={styles.componentTitle}>Child Component</h4>
-                  <ImageComponent images={angularContentProjectionChildImage} altText={'Angular child ng-content code'}></ImageComponent>     
-                    
+                  <ImageComponent images={angularContentProjectionChildImage} altText={'Angular child ng-content code'}></ImageComponent>           
                 </div>
                
                 <div>
                 <h4 style={styles.componentTitle}>Parent Component</h4>
-                <ImageComponent images={angularContentProjectionParentImage} altText={'Angular parent ng-content code'}></ImageComponent>    
-                    
+                <ImageComponent images={angularContentProjectionParentImage} altText={'Angular parent ng-content code'}></ImageComponent>        
                 </div>
               </div>
           </div>
-
       </div>
     </div>
   );
