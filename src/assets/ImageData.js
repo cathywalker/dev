@@ -36,19 +36,19 @@ export const duckGif = [
     }
   ];
   
-  export const homeworkCopyGif = [
+  export const reactContentProjectionImage = [
     {
-      src: 'https://ik.imagekit.io/dgmfafxequ/ReactMapJSX_BA7UJNXSx.png',
+      src: 'https://ik.imagekit.io/dgmfafxequ/Dev/ReactChildren_d9oTIMN2x.png',
       srcSet: `
-        https://ik.imagekit.io/dgmfafxequ/tr:w-330/ReactMapJSX_BA7UJNXSx.png 330w,
-        https://ik.imagekit.io/dgmfafxequ/tr:w-600/ReactMapJSX_BA7UJNXSx.png 700w,
-        https://ik.imagekit.io/dgmfafxequ/tr:w-800/ReactMapJSX_BA7UJNXSx.png 950w
+        https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-300/ReactChildren_d9oTIMN2x.png 330w,
+        https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-600/ReactChildren_d9oTIMN2x.png 700w,
+        https://ik.imagekit.io/dgmfafxequ/Dev/tr:w-800/ReactChildren_d9oTIMN2x.png 950w
       `,
       sizes: '(max-width: 950px) 330px, 700px'
     }
    ];
 
-  export const reactContentProjectionImage = [
+  export const homeworkCopyGif = [
     {
       src: 'https://ik.imagekit.io/dgmfafxequ/Dev/copiedHomework_yqxyhZFdk.gif',
       srcSet: `

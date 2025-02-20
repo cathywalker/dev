@@ -51,11 +51,11 @@ const Courses = () => {
           <h2 style={styles.header}>Content Projection (prop.children = "ng-content") </h2>
           <p><i>aka the info between your component brackets getting to the component</i></p>
 
-            <p>This one I'd give a tie to. Easy to learn the transition as, well, it's pretty much the same, bar different reserved words in the frameworks. Instead of 'props.children' in react it's <ng-content></ng-content> and then passing the children or projected ng-content as we'll now refer to it over in angular land between the tags of your parent component, wrapping just like you would child DOM nodes of a DIV since forever you have. Looks like someone copied their neighbours homework</p>
+            <p>This one I'd give a tie to. Easy to learn the transition as, well, it's pretty much the same, bar different reserved words in the frameworks. Instead of <b>'props.children'</b> in react it's <b>'ng-content'</b> and then passing the children or projected ng-content as we'll now refer to it over in angular land between the tags of your parent component, wrapping just like you would child DOM nodes of a DIV since forever you have. Looks like someone copied their neighbours homework</p>
             <h3>React Code</h3>
               <div style={styles.imageContainer}>
-                <ImageComponent images={homeworkCopyGif} altText={'React Map JSX code'}></ImageComponent>
-                <ImageComponent images={reactContentProjectionImage} altText={'Test Studying GIF by Pudgy Penguins'}></ImageComponent>       
+                <ImageComponent images={reactContentProjectionImage} altText={'React Map JSX code'}></ImageComponent>
+                <ImageComponent images={homeworkCopyGif} altText={'Test Studying GIF by Pudgy Penguins'}></ImageComponent>       
               </div>
           
               <h3>Angular Code</h3>
