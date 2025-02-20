@@ -39,7 +39,6 @@ const toggleActive = (index) => {
     <div className="container">
       <div className="navigation">
         <ul>
-
           {titleArray.map((title, index) => {
             return (
               <li key={index} className='nav-button'>
@@ -51,8 +50,8 @@ const toggleActive = (index) => {
         </ul>
       </div>
       <div className="content">
-        {components.map(({ component, isActiveIndex }) => 
-          isActive[isActiveIndex] && component
+        {components.map(({ component, isActiveIndex }, index) => 
+          isActive[isActiveIndex] && <div key={index}>{component}</div>
         )}
       </div>
     </div>
